@@ -1,8 +1,6 @@
 # LV-md5-license-authorizer
 
-To generate and check [MD5](url) based license file based on the MAC address and prefix text.
-
-[url]:https://en.wikipedia.org/wiki/MD5
+To generate and check [MD5](https://en.wikipedia.org/wiki/MD5) based license file based on the MAC address and prefix text.
 
 ## Environment
 
