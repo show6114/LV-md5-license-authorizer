@@ -1,5 +1,7 @@
 # LV-md5-license-authorizer
 
+中文介紹：[利用 MD5 + MAC address 實作 LabVIEW 軟體授權](https://show6114.com/2019/01/30/md5-labview-authorizer/)
+
 To generate and check [MD5](https://en.wikipedia.org/wiki/MD5) based license file based on the MAC address and prefix text.
 
 ## Environment
